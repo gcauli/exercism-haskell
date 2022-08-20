@@ -1,2 +1,2 @@
-# exercism_haskell
+# exercism-haskell
 repo for exercism's progress with haskell
